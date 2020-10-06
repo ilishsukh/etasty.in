@@ -1,6 +1,6 @@
 ---
 title: "it's a myth that freezing necessarily degrades the quality of seafood fish like ilish/hilsa."
-subtitle: "Time, Oxidation, and temperature are the primary enemies of all fresh seafood. It’s well known that bacteria are the major cause of seafood spoilage.Also, oxygen contributes heavily to spoilage fish. With the right packaging, right freezing process, and maintaining the right temperature, we can stop all these.learn how we follow science to deliver a quality as fresh throughout the year.No matter whether it's winter or summer or monsoon.you wish, we deliver.100% quality guaranteed.We never add any preservative like harmful formalin to retain shell life. No never"
+subtitle: "Time, Oxidation, and temperature are the primary enemies of all fresh seafood. It’s well known that bacteria are the major cause of seafood spoilage.With the right packaging, right freezing process, and maintaining the right temperature, we can stop all these.learn how we follow science to deliver a quality as fresh throughout the year.No matter whether it's winter or summer or monsoon.you wish, we deliver. 100% quality guaranteed.We never add any preservative like harmful formalin to to prevent its decay. No never"
  
 image: /img/home-jumbotron.jpg
 blurb:
